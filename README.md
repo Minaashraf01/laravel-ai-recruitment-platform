@@ -81,6 +81,3 @@ Contains shared logic between applications:
 
 ---
 
-## 🧱 Architecture
-
-This repository follows a monorepo structure:
